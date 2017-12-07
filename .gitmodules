@@ -1,0 +1,3 @@
+[submodule "voicekit"]
+	path = voicekit
+	url = https://github.com/google/aiyprojects-raspbian
